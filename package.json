@@ -1,0 +1,16 @@
+{
+  "author": "Scott Preston",
+  "name": "mock-serialport",
+  "description": "a mock serial port i can use when i don't have a real serial port",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/mock-serialport.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottpreston/mock-serialport"
+  },
+  "bugs": {
+    "url": "https://github.com/scottpreston/mock-serialport/issues"
+  },
+  "dependencies": {}
+}
