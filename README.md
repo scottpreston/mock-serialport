@@ -1,4 +1,4 @@
-I created this to mock out my serial port so I could test code depending on it while on a machine without the 'serial port'.
+I created this to mock out my serial port so I could test code depending on it while on a machine without a 'serial port'.
 
 ## Install
 
