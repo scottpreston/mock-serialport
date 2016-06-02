@@ -1,4 +1,4 @@
-A simple example of a back-end-as-a-service that doesn't work.
+I created this to mock out my serial port so I could test code depending on it while on a machine without the 'serial port'.
 
 ## Install
 
